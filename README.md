@@ -43,4 +43,6 @@ This is the collection of the school activities, shenanigans, etc.
 ### access
 
 #### How to get powershell on our locked computers...
+
+coming soon to a computer near you...
 ---
