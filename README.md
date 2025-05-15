@@ -4,7 +4,7 @@ spam notepad
 
 
 
-how I make the links
+how I make the powershell commands
 
 1. make file and upload to github
     - any file type works but i usually have it in ps1 for ease of testing amd readability
