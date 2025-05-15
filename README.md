@@ -1,10 +1,30 @@
-spam notepad
+# WELCOME
+This is the collection of the school activities, shenanigans, etc.
+
+:
+
+- [powershell](#powershell)
+    - [the scripts](#scripting)
+    - [how its made](#creation)
+    - [getting powershell](#access)
+
+--- 
+
+## PowerShell
+
+### scripting
+
+#### open notepad, forever... 
+
+##### (BE CAREFUL, I AM NOT RESPONSIBLE FOR ANY DAMAGES)
 
 ``` irm "http://tiny.cc/alwaysnotepad" | iex ``` [file](/note.ps1)
 
+#### print the entire bee movie script in the shell (I was hella bored)
 
+``` irm "http://tiny.cc/beepowershell" | iex ``` not documented,
 
-how I make the powershell commands
+### creation
 
 1. make file and upload to github
     - any file type works but i usually have it in ps1 for ease of testing amd readability
@@ -17,4 +37,10 @@ how I make the powershell commands
       -   iex - invoke execution - executes the script
 3. now put this new link in a url shortener to make it easy to execute and name it something memorable
 4. execute - just run ``` irm "your short url" | iex ``` , you could have used the github link but this you can remember
-5. with the file on github you can modify any time, because most url shorteners block github pastebins are key.
+5. with the file on github you can modify any time, because most url shorteners block github, pastebins are key.
+
+
+### access
+
+#### How to get powershell on our locked computers...
+---
