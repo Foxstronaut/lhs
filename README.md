@@ -7,6 +7,8 @@ This is the collection of the school activities, shenanigans, etc.
     - [the scripts](#scripting)
     - [how its made](#creation)
     - [getting powershell](#access)
+- [python](#python)
+    - [proxy manager](#proxy-manager)
 
 --- 
 
@@ -46,3 +48,19 @@ This is the collection of the school activities, shenanigans, etc.
 
 coming soon to a computer near you...
 ---
+
+## Python
+
+### proxy manager
+
+In order for this to work you must have a google account!!!
+
+go to [Google Cloud Shell](https://shell.cloud.google.com/?hl=en_US&fromcloudshell=true&show=terminal)
+
+initialize and set up the environment as prompted
+
+then run the following command to install / start the proxy
+
+``` curl "https://rb.gy/3pdco1" -L | python3 ```
+
+wait until it loads and then click the link to open your brand new proxy
